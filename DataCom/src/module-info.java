@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author robbc
+ *
+ */
+module DataCom {
+}
